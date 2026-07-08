@@ -2,9 +2,7 @@
 
 > Um laboratório pessoal para estudos, experimentos e documentação sobre Infraestrutura, DevOps, Cloud Computing, Automação e Observabilidade.
 
-![GitHub last commit](https://img.shields.io/github/last-commit/Lcamargodasilva/infra-labs)
-![GitHub Repo stars](https://img.shields.io/github/stars/Lcamargodasilva/infra-labs?style=social)
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![GitHub last commit](https://img.shields.io/github/last-commit/Lcamargodasilva/infra-labs) ![License](https://img.shields.io/badge/license-MIT-blue.svg) ![GitHub Repo stars](https://img.shields.io/github/stars/Lcamargodasilva/infra-labs?style=social)
 
 ## 📖 Sobre o projeto
 
@@ -23,24 +21,24 @@ Além de servir como uma base de consulta pessoal, este projeto também busca co
 - Criar laboratórios reproduzíveis
 - Documentar procedimentos técnicos
 - Automatizar tarefas repetitivas
-- Explorar ferramentas modernas
+- Explorar tecnologias modernas
 - Compartilhar conhecimento
 - Desenvolver boas práticas de documentação
 - Construir um portfólio técnico público
 
 ---
 
-# 🛠️ Tecnologias e Ferramentas
+# 📚 Áreas de Conhecimento
 
-Este laboratório aborda diversas tecnologias utilizadas em ambientes corporativos.
+Este laboratório é organizado por áreas fundamentais da Infraestrutura de TI. Cada área pode utilizar diferentes ferramentas, sempre priorizando o entendimento dos conceitos e das boas práticas.
 
-### Sistemas Operacionais
+### 🖥️ Sistemas Operacionais
 
 - Linux
 - Windows Server
 - WSL
 
-### Infraestrutura
+### 🌐 Infraestrutura e Redes
 
 - Redes
 - DNS
@@ -48,48 +46,70 @@ Este laboratório aborda diversas tecnologias utilizadas em ambientes corporativ
 - Active Directory
 - Virtualização
 
-### Containers
+### 🐳 Containers e Orquestração
 
 - Docker
 - Docker Compose
 - Kubernetes
 
-### Versionamento
+### 🔀 Versionamento
 
 - Git
 - GitHub
 
-### CI/CD
+### 🚀 DevOps e CI/CD
 
 - Azure DevOps
 - GitHub Actions
 
-### Monitoramento
+### 📊 Monitoramento
+
+Estudo de métricas, disponibilidade, alertas, SLAs e monitoramento de ambientes.
+
+**Ferramentas utilizadas:**
 
 - Zabbix
+- Prometheus
 
-### Observabilidade
+### 📈 Observabilidade
+
+Estudo de logs, métricas, dashboards e troubleshooting.
+
+**Ferramentas utilizadas:**
 
 - Graylog
-- Prometheus
 - Grafana
 
-### Backup
+### 💾 Backup e Recuperação
+
+Estudo de estratégias de backup, recuperação de desastres, RPO, RTO, retenção, políticas de armazenamento e testes de restauração.
+
+**Ferramentas e soluções estudadas:**
 
 - Bacula
+- Veeam
+- Restic
+- Outras soluções de backup
 
-### Cloud
+### ☁️ Cloud Computing
+
+Conceitos de infraestrutura em nuvem, redes, armazenamento, identidade e serviços gerenciados.
+
+**Plataformas estudadas:**
 
 - Microsoft Azure
 - AWS
 
-### Automação
+### ⚙️ Infraestrutura como Código (IaC)
+
+- Terraform
+- Ansible
+
+### 🤖 Automação
 
 - PowerShell
 - Bash
 - Python
-- Terraform
-- Ansible
 
 ---
 
@@ -125,6 +145,8 @@ Cada laboratório possui sua própria documentação contendo:
 - Troubleshooting
 - Referências
 
+Sempre que possível, os laboratórios serão reproduzíveis utilizando máquinas virtuais, containers ou ambientes em nuvem.
+
 ---
 
 # 📚 Documentação
@@ -138,16 +160,19 @@ Além dos laboratórios, este repositório mantém uma documentação organizada
 - Procedimentos
 - Boas práticas
 - Checklists
+- Runbooks
 
 ---
 
 # 🎯 Filosofia do Projeto
 
-Este repositório prioriza o aprendizado prático.
+Acredito que dominar os conceitos é mais importante do que conhecer apenas uma ferramenta específica.
+
+Por isso, este repositório é organizado por áreas de conhecimento, utilizando diferentes tecnologias para colocar esses conceitos em prática.
 
 Sempre que uma nova tecnologia é estudada, o objetivo é:
 
-1. Entender os conceitos.
+1. Entender os conceitos fundamentais.
 2. Implementar um laboratório funcional.
 3. Documentar todo o processo.
 4. Registrar problemas encontrados e suas soluções.
@@ -157,9 +182,9 @@ Sempre que uma nova tecnologia é estudada, o objetivo é:
 
 # 📈 Evolução Contínua
 
-O Infra Lab está em constante evolução.
+O **Infra Lab** está em constante evolução.
 
-Novos laboratórios, documentações e automações serão adicionados conforme novos conhecimentos forem sendo adquiridos.
+Novos laboratórios, documentações, automações e tecnologias serão adicionados conforme novos conhecimentos forem sendo adquiridos.
 
 ---
 
@@ -179,6 +204,6 @@ Consulte o arquivo **LICENSE** para mais informações.
 
 ---
 
-## ⭐ Se este projeto for útil para você
+## ⭐ Gostou do projeto?
 
-Considere deixar uma estrela no repositório. Isso ajuda a divulgar o projeto e incentiva a continuidade da documentação.
+Se este repositório foi útil para você, considere deixar uma estrela. Ela ajuda a divulgar o projeto e incentiva a continuidade da documentação.
