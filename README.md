@@ -2,7 +2,7 @@
 
 > Um laboratório pessoal para estudos, experimentos e documentação sobre Infraestrutura, DevOps, Cloud Computing, Automação e Observabilidade.
 
-![GitHub last commit](https://img.shields.io/github/last-commit/SEU-USUARIO/infra-lab)
+![GitHub last commit](https://img.shields.io/github/last-commit/Lcamargodasilva/infra-lab)
 ![GitHub Repo stars](https://img.shields.io/github/stars/Lcamargodasilva/infra-lab?style=social)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
